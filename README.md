@@ -14,3 +14,5 @@ A website where you can find your favourite recipe.
 Site Link: https://bd-recipes.web.app/
 
 GitHub Server-side Link: https://github.com/Abir-7/BD-Food-Recipe-Server
+
+Technology: Html, CSS, tailwind CSS, React, JavaScript, Nodejs, Express JS
